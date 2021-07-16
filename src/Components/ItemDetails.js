@@ -53,11 +53,6 @@ class ItemDetails extends Component {
                   onClick={() =>
                     this.setState({ display: !this.state.display })
                   }
-                  // style={{
-                  //   color: "green",
-                  //   fontWeight: "bold",
-                  //   marginRight: "30px",
-                  // }}
                 >
                   Leave A Review
                 </Link>
